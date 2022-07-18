@@ -2,11 +2,11 @@ hello,This is jo.
 
 This is me in 2019.
 
-![me](D:\thoughtworks\Wang_Chen-learning-git\.github\assets\me.jpg)
+<img src="assets/me.jpg" width="30%" />
 
 Here comes my wife,she's an idol.
 
-![wife](D:\thoughtworks\Wang_Chen-learning-git\.github\assets\wife.jpg)
+<img src="assets/wife.jpg" width="30%" />
 
 Click the link below to watch my wife dancing.
 
